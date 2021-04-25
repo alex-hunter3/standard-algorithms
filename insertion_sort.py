@@ -16,5 +16,5 @@ if __name__ == "__main__":
 	for i in range(10):
 		arr.append(random.randint(1, 20))
 
-	print(arr)
-	print(insertion_sort(arr))
+	print(f"Unsorted Array: {arr}")
+	print(f"Sorted by Insertion sort: {insertion_sort(arr)}")

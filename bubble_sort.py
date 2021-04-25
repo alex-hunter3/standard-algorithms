@@ -18,5 +18,5 @@ if __name__ == "__main__":
 	for i in range(10):
 		arr.append(random.randint(1, 20))
 
-	print(arr)
-	print(bubble_sort(arr))
+	print(f"Unsorted Array: {arr}")
+	print(f"Sorted by Bubble sort: {bubble_sort(arr)}")
