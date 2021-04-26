@@ -1,3 +1,5 @@
+# Binary search algorithm built with python
+
 from random import randint
 from insertion_sort import *
 

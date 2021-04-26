@@ -1,3 +1,5 @@
+# Insertion sort algorithm built with python
+
 import random
 
 def insertion_sort(arr):

@@ -1,3 +1,5 @@
+# Bubble sort algorithm built with python
+
 import random
 
 def bubble_sort(arr):
